@@ -6,7 +6,7 @@
   
     <project name="device_google_sprout4" path="device/google/sprout4" remote="fop" />
     <project name="kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="fop" />
-    <project name="device_google_sprout-common" path="device_google_sprout-common" remote="fop" />
+    <project name="device_google_sprout-common" path="device/google/sprout-common" remote="fop" />
     <project name="vendor_google" path="vendor/google" remote="fop" />
   
 </manifest>
