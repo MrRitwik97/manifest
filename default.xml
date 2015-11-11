@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="fop"
+           fetch="https://github.com/FreeOneProject"
+           revision="cm-13.0" />
+  
+    <project name="device_google_sprout4" path="device/google/sprout4" remote="fop" />
+    <project name="kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="fop" />
+    <project name="device_google_sprout-common" path="device_google_sprout-common" remote="fop" />
+    <project name="vendor_google" path="vendor/google" remote="fop" />
+  
+</manifest>
