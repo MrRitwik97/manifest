@@ -2,9 +2,9 @@
 <manifest>
 
   
-    <project name="CyanogenMod/android_device_google_sprout4" path="device/google/sprout4" remote="github" revision="cm-13.0" />
-    <project name="CyanogenMod/android_kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="github" revision="cm-13.0" />
-    <project name="CyanogenMod/android_device_google_sprout-common" path="device/google/sprout-common" remote="github" revision="cm-13.0" />
-    <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="github" revision="cm-13.0" />
+    <project name="MrRitwik97/device_google_sprout4" path="device/google/sprout4" remote="aokp" />
+    <project name="CyanogenMod/android_kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="cm" />
+    <project name="CyanogenMod/android_device_google_sprout-common" path="device/google/sprout-common" remote="cm" />
+    <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="tm" />
   
 </manifest>
